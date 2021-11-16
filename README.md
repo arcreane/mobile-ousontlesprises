@@ -1,6 +1,14 @@
-# ousontlesprises
+# Ou sont les prises ?
 
-A new Flutter project.
+Ou sont les prises est un projet Flutter réalisé par un groupe composé de : <br><br>
+Louis MORVAN <br>
+Anis AYOUDJ <br>
+Théo FOUASSIER <br>
+*ajouter les manquants*
+
+## Pour commencer
+
+Ce projet nous est venus en tête après avoir vu le peu de prises disponibles dans l'établissement EPSI alors que c'est une école d'ingénieur.<br>
 
 ## Getting Started
 
