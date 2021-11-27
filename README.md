@@ -14,12 +14,12 @@ Wassim MSALMI <br>
 # Projet jeux Android EPSI
 Mini jeu, développé  en Java.
 
-<a href="url"><img src="https://github.com/arcreane/mobile-ousontlesprises/blob/test/Screenshot_20170306-145641.png" height="50%" width="50%" ></a>
+<a href="url"><img src="https://github.com/arcreane/mobile-ousontlesprises/blob/master/Screenshot_20170306-145641.png" height="50%" width="50%" ></a>
 
 
-<a href="url"><img src="https://github.com/arcreane/mobile-ousontlesprises/blob/test/Screenshot_20170306-145650.png" height="50%" width="50%" ></a>
+<a href="url"><img src="https://github.com/arcreane/mobile-ousontlesprises/blob/master/Screenshot_20170306-145650.png" height="50%" width="50%" ></a>
 
-<a href="url"><img src="https://github.com/arcreane/mobile-ousontlesprises/blob/test/Screenshot_20170306-145657.png" height="50%" width="50%" ></a>
+<a href="url"><img src="https://github.com/arcreane/mobile-ousontlesprises/blob/master/Screenshot_20170306-145657.png" height="50%" width="50%" ></a>
 
 
 ## Licence
