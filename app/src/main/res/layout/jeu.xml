@@ -7,7 +7,7 @@
     android:id="@+id/viewwin"
     android:background="#E1F5F2">
 
-    <com.example.axel.projet_jeux.CustomView
+    <com.example.wassim.projet_jeux.CustomView
     android:layout_width="match_parent"
     android:layout_height="match_parent"
         android:id="@+id/ViewJeu"
