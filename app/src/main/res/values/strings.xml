@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Projet_jeux</string>
+    <string name="text_rocket">Salluuuuuut</string>
+
+    <string-array name="nbVehicules">
+            <item name="4">8</item>
+            <item name="item2">12</item>
+            <item>18</item>
+            <item>20</item>
+            <item>30</item>
+            <item>85</item>
+
+        </string-array>
+
+</resources>
