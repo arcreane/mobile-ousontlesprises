@@ -1,4 +1,4 @@
-package com.example.axel.projet_jeux;
+package com.example.wassim.projet_jeux;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -7,7 +7,7 @@ import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 
 /**
- * Created by Axel on 10/10/2016.
+ * Created by Wassim on 14/11/2021.
  */
 
  class Occurence {
