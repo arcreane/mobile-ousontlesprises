@@ -1,4 +1,4 @@
-package com.example.axel.projet_jeux;
+package com.example.wassim.projet_jeux;
 
 import android.app.Activity;
 import android.content.Context;
@@ -16,7 +16,7 @@ import android.widget.TextView;
 import static android.content.ContentValues.TAG;
 
 /**
- * Created by Axel on 10/10/2016.
+ * Created by Wassim on 14/11/2021.
  */
 
 
