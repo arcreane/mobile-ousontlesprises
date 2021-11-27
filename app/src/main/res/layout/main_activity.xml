@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app2="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="@drawable/back">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+
+        android:src="@drawable/logoa"
+        android:textColor="@android:color/black" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Choisissez votre Intru :"
+            style="@style/soustitre"/>
+
+        <CheckBox
+            android:layout_width="36dp"
+            android:layout_height="45dp"
+            android:id="@+id/button2"
+            android:contextClickable="false"
+            android:nestedScrollingEnabled="false" />
+
+        <ImageView
+            android:layout_height="45dp"
+            app2:srcCompat="@drawable/intruun"
+            android:id="@+id/imageView1"
+            android:layout_width="35dp" />
+
+        <CheckBox
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:id="@+id/button3"
+        android:contextClickable="false"
+        android:nestedScrollingEnabled="false"
+        android:layout_weight="0.37" />
+
+        <ImageView
+            android:layout_width="38dp"
+            android:layout_height="45dp"
+            app2:srcCompat="@drawable/intrudeux"
+            android:id="@+id/imageView3" />
+
+        <CheckBox
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:id="@+id/button4"
+            android:contextClickable="false"
+            android:nestedScrollingEnabled="false"
+            android:layout_weight="0.37" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            app2:srcCompat="@drawable/intrutrois"
+            android:id="@+id/imageView"
+            android:layout_weight="0.36" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:text="Nombre d'objets :"
+            style="@style/soustitre"/>
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:id="@+id/spinner"
+            android:entries="@array/nbVehicules"
+            android:spinnerMode="dropdown"
+            android:background="@android:drawable/spinner_background"
+            android:layout_marginTop="20dp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:text="C'est partit !"
+            android:layout_width="102dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/button6" />
+    </LinearLayout>
+
+
+</LinearLayout>
+
+
+
