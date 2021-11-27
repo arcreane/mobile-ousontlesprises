@@ -1,4 +1,4 @@
-package com.example.axel.projet_jeux;
+package com.example.wassim.projet_jeux;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
@@ -18,7 +18,7 @@ import java.util.Random;
 import static android.R.attr.bitmap;
 
 /**
- * Created by Axel on 04/11/2016.
+ * Created by Wassim on 14/11/2021.
  */
 
 public class Intrus {
