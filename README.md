@@ -1,6 +1,6 @@
 # Ou sont les prises ?
 
-Ou sont les prises est un projet Flutter réalisé par un groupe composé de : <br><br>
+Ou sont les prises est un projet réalisé par un groupe composé de : <br><br>
 Louis MORVAN <br>
 Anis AYOUDJ <br>
 Théo FOUASSIER <br>
@@ -9,17 +9,20 @@ Wassim MSALMI <br>
 
 ## Pour commencer
 
-Ce projet nous est venus en tête après avoir vu le peu de prises disponibles dans l'établissement EPSI alors que c'est une école d'ingénieur.<br>
+<snippet>
+  <content>
+# Projet jeux Android EPSI
+Mini jeu, développé  en Java.
 
-## Getting Started
+<a href="url"><img src="https://github.com/arcreane/mobile-ousontlesprises/blob/test/Screenshot_20170306-145641.png" height="50%" width="50%" ></a>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<a href="url"><img src="https://github.com/arcreane/mobile-ousontlesprises/blob/test/Screenshot_20170306-145650.png" height="50%" width="50%" ></a>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<a href="url"><img src="https://github.com/arcreane/mobile-ousontlesprises/blob/test/Screenshot_20170306-145657.png" height="50%" width="50%" ></a>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Licence
+Wassim Msalmi, Louis MORVAN ,Anis AYOUDJ,Théo FOUASSIER
+></content>
+</snippet>
