@@ -4,6 +4,7 @@ Ou sont les prises est un projet Flutter réalisé par un groupe composé de : <
 Louis MORVAN <br>
 Anis AYOUDJ <br>
 Théo FOUASSIER <br>
+Wassim MSALMI <br>
 *ajouter les manquants*
 
 ## Pour commencer
