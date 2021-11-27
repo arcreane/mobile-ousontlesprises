@@ -1,4 +1,4 @@
-package com.example.axel.projet_jeux;
+package com.example.wassim.projet_jeux;
 
 import android.content.Context;
 import android.media.MediaPlayer;
@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.TextView;
 
 /**
- * Created by Axel on 24/10/2016.
+ * Created by Wassim on 14/11/2021.
  */
 
 public class AActivity extends AppCompatActivity{
